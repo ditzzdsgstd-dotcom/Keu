@@ -12,7 +12,7 @@ frame.BorderSizePixel = 0
 Instance.new("UICorner", frame).CornerRadius = UDim.new(0, 8)
 
 local title = Instance.new("TextLabel", frame)
-title.Text = "YoxanXHub | Key System"
+title.Text = "YoxanXHub | Key System V1"
 title.Size = UDim2.new(1, 0, 0, 40)
 title.BackgroundTransparency = 1
 title.TextColor3 = Color3.new(1,1,1)
